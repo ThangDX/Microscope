@@ -20,5 +20,7 @@ Template.postSubmit.events({
             Router.go('postPage', {_id: result._id});
 
         });
+
+
     }
 });
